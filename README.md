@@ -3,6 +3,7 @@ upcoming project
 
 ### Very cool contributors
 
+- [eversiege](https://github.com/eversiege)
 - [Blockyheadman](https://github.com/Blockyheadman)
 - [Sawrams](https://github.com/sawrams)
 - [An Unnamed Developer](https://github.com/An-Unnamed-Developer)
