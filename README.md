@@ -3,6 +3,7 @@ upcoming project
 
 ### Very cool contributors
 
+- [Sawrams](https://github.com/sawrams)
 - [An Unnamed Developer](https://github.com/An-Unnamed-Developer)
 - [Nik Nikovsky](https://github.com/niknikovsky)
 - [slicedlime](https://github.com/slicedlime)
