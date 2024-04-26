@@ -13,3 +13,5 @@ upcoming project
 - [Izaak Kuipers](https://github.com/izkuipers)
 - [Linus Torvalds](https://github.com/torvalds) 
 - [Andrew](https://github.com/andriemc)
+
+At least 2 of those don't even want anything to do with this unless I'm wrong.
